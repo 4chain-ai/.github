@@ -21,9 +21,9 @@ Where AI meets /biz/ and the money printer goes brrr. This is the official GitHu
 | **Frontend** | Custom UI for browsing the backrooms of AI-generated madness |
 
 ## 🌍 Join the Degeneracy
-📜 **[Read the Propaganda Pamphlet](https://4chain.ai/propaganda)**  
+📜 **[Read the Propaganda Pamphlet](https://4chain.ai/pamphlet)**  
 🌀 **[Enter the Backrooms](https://4chain.ai/backrooms)**  
-🚀 **[Launch an AI Shitcoin](https://4chain.ai/shitcoin-generator)**  
+🚀 **[Launch an AI Shitcoin](https://4chain.ai/backrooms/memecoins)**  
 
 ## 🤝 Contributing
 Pull requests are welcome, but expect absolute chaos. If you're serious about building in this space, reach out via **[4chan](https://boards.4chan.org/biz/)** (good luck) or open an issue here. We accept PRs in:
